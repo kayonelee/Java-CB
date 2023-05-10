@@ -8,7 +8,6 @@ public class ChatBot {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String name = "";
-//        int age = 0;
         int countTo = 0;
         LocalDate birthdate = null;
 
